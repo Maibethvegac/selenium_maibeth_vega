@@ -1,0 +1,12 @@
+<suite name="Esto es una Suite de Selenium">
+
+    <test name = "Test del simulacro de examen">
+
+        <classes>
+
+            <class name="Simulacro.prueba_booking"></class>
+
+        </classes>
+
+    </test>
+</suite>
